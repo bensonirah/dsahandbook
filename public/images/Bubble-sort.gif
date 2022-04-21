@@ -1,0 +1,15 @@
+--2022-04-21 12:54:17--  https://upload.wikimedia.org/wikipedia/commons/0/06/Bubble-sort.gif
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 91.198.174.208, 2620:0:862:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|91.198.174.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 242023 (236K) [image/gif]
+Saving to: ‘Bubble-sort.gif.1’
+
+     0K .......... .......... .......... .......... .......... 21% 81.4K 2s
+    50K .......... .......... .......... .......... .......... 42%  274K 1s
+   100K .......... .......... .......... .......... .......... 63%  284K 1s
+   150K .......... .......... .......... .......... .......... 84%  446K 0s
+   200K .......... .......... .......... ......               100%  718K=1.1s
+
+2022-04-21 12:54:20 (208 KB/s) - ‘Bubble-sort.gif.1’ saved [242023/242023]
+

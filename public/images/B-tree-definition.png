@@ -1,0 +1,11 @@
+--2022-04-21 12:54:37--  https://upload.wikimedia.org/wikipedia/commons/9/92/B-tree-definition.png
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 91.198.174.208, 2620:0:862:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|91.198.174.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 16458 (16K) [image/png]
+Saving to: ‘B-tree-definition.png.3’
+
+     0K .......... ......                                     100% 69.4K=0.2s
+
+2022-04-21 12:54:38 (69.4 KB/s) - ‘B-tree-definition.png.3’ saved [16458/16458]
+

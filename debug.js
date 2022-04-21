@@ -1,0 +1,1 @@
+console.log(decodeURIComponent('Stack_%28data_structure%29.svg'))

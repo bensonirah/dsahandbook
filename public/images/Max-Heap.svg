@@ -1,0 +1,11 @@
+--2022-04-21 12:54:02--  https://upload.wikimedia.org/wikipedia/commons/3/38/Max-Heap.svg
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 91.198.174.208, 2620:0:862:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|91.198.174.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 39176 (38K) [image/svg+xml]
+Saving to: ‘Max-Heap.svg.1’
+
+     0K .......... .......... .......... ........             100%  120K=0.3s
+
+2022-04-21 12:54:04 (120 KB/s) - ‘Max-Heap.svg.1’ saved [39176/39176]
+

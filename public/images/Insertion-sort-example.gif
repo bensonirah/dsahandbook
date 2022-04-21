@@ -1,0 +1,13 @@
+--2022-04-21 12:54:20--  https://upload.wikimedia.org/wikipedia/commons/9/9c/Insertion-sort-example.gif
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 91.198.174.208, 2620:0:862:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|91.198.174.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 152421 (149K) [image/gif]
+Saving to: ‘Insertion-sort-example.gif.1’
+
+     0K .......... .......... .......... .......... .......... 33% 81.3K 1s
+    50K .......... .......... .......... .......... .......... 67%  346K 0s
+   100K .......... .......... .......... .......... ........  100%  263K=0.9s
+
+2022-04-21 12:54:22 (158 KB/s) - ‘Insertion-sort-example.gif.1’ saved [152421/152421]
+

@@ -1,0 +1,13 @@
+--2022-04-21 12:53:33--  https://upload.wikimedia.org/wikipedia/commons/9/9b/Binary_search_tree_example.gif
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 91.198.174.208, 2620:0:862:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|91.198.174.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 123777 (121K) [image/gif]
+Saving to: ‘Binary_search_tree_example.gif.1’
+
+     0K .......... .......... .......... .......... .......... 41% 81.5K 1s
+    50K .......... .......... .......... .......... .......... 82%  284K 0s
+   100K .......... ..........                                 100%  418K=0.8s
+
+2022-04-21 12:53:35 (144 KB/s) - ‘Binary_search_tree_example.gif.1’ saved [123777/123777]
+

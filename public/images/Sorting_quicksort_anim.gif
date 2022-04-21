@@ -1,0 +1,12 @@
+--2022-04-21 12:54:23--  https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 91.198.174.208, 2620:0:862:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|91.198.174.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93016 (91K) [image/gif]
+Saving to: ‘Sorting_quicksort_anim.gif.1’
+
+     0K .......... .......... .......... .......... .......... 55% 99.2K 0s
+    50K .......... .......... .......... ..........           100%  348K=0.6s
+
+2022-04-21 12:54:25 (146 KB/s) - ‘Sorting_quicksort_anim.gif.1’ saved [93016/93016]
+

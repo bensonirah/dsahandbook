@@ -1,0 +1,16 @@
+--2022-04-21 12:53:27--  https://upload.wikimedia.org/wikipedia/commons/3/31/Tree_rotation_animation_250x250.gif
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 91.198.174.208, 2620:0:862:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|91.198.174.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 280570 (274K) [image/gif]
+Saving to: ‘Tree_rotation_animation_250x250.gif.1’
+
+     0K .......... .......... .......... .......... .......... 18% 82.8K 3s
+    50K .......... .......... .......... .......... .......... 36%  609K 1s
+   100K .......... .......... .......... .......... .......... 54%  235K 1s
+   150K .......... .......... .......... .......... .......... 72%  568K 0s
+   200K .......... .......... .......... .......... .......... 91%  576K 0s
+   250K .......... .......... ...                             100% 69.0K=1.4s
+
+2022-04-21 12:53:29 (193 KB/s) - ‘Tree_rotation_animation_250x250.gif.1’ saved [280570/280570]
+

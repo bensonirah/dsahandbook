@@ -1,0 +1,11 @@
+--2022-04-21 12:54:28--  https://upload.wikimedia.org/wikipedia/commons/0/06/Stack_%28data_structure%29.svg
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 91.198.174.208, 2620:0:862:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|91.198.174.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5640 (5.5K) [image/svg+xml]
+Saving to: ‘Stack_(data_structure).svg.1’
+
+     0K .....                                                 100%  190M=0s
+
+2022-04-21 12:54:29 (190 MB/s) - ‘Stack_(data_structure).svg.1’ saved [5640/5640]
+

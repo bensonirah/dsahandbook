@@ -1,0 +1,11 @@
+--2022-04-21 12:54:42--  https://upload.wikimedia.org/wikipedia/commons/d/d4/Sorted_binary_tree_preorder.svg
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 91.198.174.208, 2620:0:862:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|91.198.174.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 35522 (35K) [image/svg+xml]
+Saving to: ‘Sorted_binary_tree_preorder.svg.1’
+
+     0K .......... .......... .......... ....                 100%  113K=0.3s
+
+2022-04-21 12:54:43 (113 KB/s) - ‘Sorted_binary_tree_preorder.svg.1’ saved [35522/35522]
+

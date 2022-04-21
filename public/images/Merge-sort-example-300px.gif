@@ -1,0 +1,12 @@
+--2022-04-21 12:54:25--  https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 91.198.174.208, 2620:0:862:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|91.198.174.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 94355 (92K) [image/gif]
+Saving to: ‘Merge-sort-example-300px.gif.1’
+
+     0K .......... .......... .......... .......... .......... 54% 80.9K 1s
+    50K .......... .......... .......... .......... ..        100%  527K=0.7s
+
+2022-04-21 12:54:27 (132 KB/s) - ‘Merge-sort-example-300px.gif.1’ saved [94355/94355]
+

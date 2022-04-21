@@ -1,0 +1,11 @@
+--2022-04-21 12:53:20--  https://www.thedshandbook.com/wp-content/uploads/2019/09/oned_array.svg
+Resolving www.thedshandbook.com (www.thedshandbook.com)... 18.139.201.98, 178.128.93.124, 2406:da18:880:3802:371c:4bf1:923b:fc30, ...
+Connecting to www.thedshandbook.com (www.thedshandbook.com)|18.139.201.98|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5999 (5.9K) [image/svg+xml]
+Saving to: ‘oned_array.svg.1’
+
+     0K .....                                                 100% 50.8M=0s
+
+2022-04-21 12:53:22 (50.8 MB/s) - ‘oned_array.svg.1’ saved [5999/5999]
+

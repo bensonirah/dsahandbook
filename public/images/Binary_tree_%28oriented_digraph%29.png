@@ -1,0 +1,11 @@
+--2022-04-21 12:54:34--  https://upload.wikimedia.org/wikipedia/commons/3/36/Binary_tree_%28oriented_digraph%29.png
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 91.198.174.208, 2620:0:862:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|91.198.174.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3739 (3.7K) [image/png]
+Saving to: ‘Binary_tree_(oriented_digraph).png.3’
+
+     0K ...                                                   100%  104M=0s
+
+2022-04-21 12:54:35 (104 MB/s) - ‘Binary_tree_(oriented_digraph).png.3’ saved [3739/3739]
+

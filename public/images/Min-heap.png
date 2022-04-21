@@ -1,0 +1,11 @@
+--2022-04-21 12:54:04--  https://upload.wikimedia.org/wikipedia/commons/6/69/Min-heap.png
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 91.198.174.208, 2620:0:862:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|91.198.174.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 21115 (21K) [image/png]
+Saving to: ‘Min-heap.png.1’
+
+     0K .......... ..........                                 100% 68.5K=0.3s
+
+2022-04-21 12:54:05 (68.5 KB/s) - ‘Min-heap.png.1’ saved [21115/21115]
+

@@ -1,0 +1,11 @@
+--2022-04-21 12:54:01--  https://upload.wikimedia.org/wikipedia/commons/4/47/Binary_heap.svg
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 91.198.174.208, 2620:0:862:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|91.198.174.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 22017 (22K) [image/svg+xml]
+Saving to: ‘Binary_heap.svg.1’
+
+     0K .......... .......... .                               100% 75.1K=0.3s
+
+2022-04-21 12:54:02 (75.1 KB/s) - ‘Binary_heap.svg.1’ saved [22017/22017]
+

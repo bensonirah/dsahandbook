@@ -1,0 +1,11 @@
+--2022-04-21 12:54:27--  https://wikimedia.org/api/rest_v1/media/math/render/svg/6f9ffcea50d5da4133ded17f526333fdda87f702
+Resolving wikimedia.org (wikimedia.org)... 91.198.174.192, 2620:0:862:ed1a::1
+Connecting to wikimedia.org (wikimedia.org)|91.198.174.192|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12085 (12K) [image/svg+xml]
+Saving to: ‘6f9ffcea50d5da4133ded17f526333fdda87f702.2’
+
+     0K .......... .                                          100%  124M=0s
+
+2022-04-21 12:54:28 (124 MB/s) - ‘6f9ffcea50d5da4133ded17f526333fdda87f702.2’ saved [12085/12085]
+

@@ -1,0 +1,11 @@
+--2022-04-21 12:54:08--  https://upload.wikimedia.org/wikipedia/commons/d/df/Circularly-linked-list.svg
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 91.198.174.208, 2620:0:862:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|91.198.174.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 13091 (13K) [image/svg+xml]
+Saving to: ‘Circularly-linked-list.svg.3’
+
+     0K .......... ..                                         100%  201M=0s
+
+2022-04-21 12:54:09 (201 MB/s) - ‘Circularly-linked-list.svg.3’ saved [13091/13091]
+

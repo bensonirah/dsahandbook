@@ -1,0 +1,12 @@
+--2022-04-21 12:53:50--  https://upload.wikimedia.org/wikipedia/commons/f/f5/Adjacencylist_linkedlistof_doublelinkedlists_undirectedgraph.svg
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 91.198.174.208, 2620:0:862:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|91.198.174.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54670 (53K) [image/svg+xml]
+Saving to: ‘Adjacencylist_linkedlistof_doublelinkedlists_undirectedgraph.svg.1’
+
+     0K .......... .......... .......... .......... .......... 93%  102K 0s
+    50K ...                                                   100% 6.31T=0.5s
+
+2022-04-21 12:53:52 (109 KB/s) - ‘Adjacencylist_linkedlistof_doublelinkedlists_undirectedgraph.svg.1’ saved [54670/54670]
+

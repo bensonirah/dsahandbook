@@ -1,0 +1,12 @@
+--2022-04-21 12:54:11--  https://upload.wikimedia.org/wikipedia/commons/3/37/Bplustree.png
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 91.198.174.208, 2620:0:862:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|91.198.174.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 86861 (85K) [image/png]
+Saving to: ‘Bplustree.png.1’
+
+     0K .......... .......... .......... .......... .......... 58% 82.7K 0s
+    50K .......... .......... .......... ....                 100%  115K=0.9s
+
+2022-04-21 12:54:13 (93.6 KB/s) - ‘Bplustree.png.1’ saved [86861/86861]
+

@@ -1,0 +1,11 @@
+--2022-04-21 12:54:13--  https://upload.wikimedia.org/wikipedia/commons/5/52/Data_Queue.svg
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 91.198.174.208, 2620:0:862:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|91.198.174.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5560 (5.4K) [image/svg+xml]
+Saving to: ‘Data_Queue.svg.1’
+
+     0K .....                                                 100% 98.1M=0s
+
+2022-04-21 12:54:14 (98.1 MB/s) - ‘Data_Queue.svg.1’ saved [5560/5560]
+

@@ -1,0 +1,12 @@
+--2022-04-21 12:53:56--  https://upload.wikimedia.org/wikipedia/commons/5/5d/Depth-first-tree.png
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 91.198.174.208, 2620:0:862:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|91.198.174.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54728 (53K) [image/png]
+Saving to: ‘Depth-first-tree.png.1’
+
+     0K .......... .......... .......... .......... .......... 93% 82.1K 0s
+    50K ...                                                   100% 37.1M=0.6s
+
+2022-04-21 12:53:57 (87.8 KB/s) - ‘Depth-first-tree.png.1’ saved [54728/54728]
+

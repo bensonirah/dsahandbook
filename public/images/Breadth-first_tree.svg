@@ -1,0 +1,11 @@
+--2022-04-21 12:53:54--  https://upload.wikimedia.org/wikipedia/commons/1/1b/Breadth-first_tree.svg
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 91.198.174.208, 2620:0:862:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|91.198.174.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 16010 (16K) [image/svg+xml]
+Saving to: ‘Breadth-first_tree.svg.1’
+
+     0K .......... .....                                      100% 52.0K=0.3s
+
+2022-04-21 12:53:56 (52.0 KB/s) - ‘Breadth-first_tree.svg.1’ saved [16010/16010]
+
